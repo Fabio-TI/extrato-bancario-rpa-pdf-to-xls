@@ -1,0 +1,12 @@
+extrato-bancario-rpa-pdf-to-xls/
+│
+├── data/
+│   ├── input/         # Onde o PDF será colocado
+│   └── output/        # Onde o .xls será salvo
+│
+├── scripts/
+│   └── processa_extrato.py
+│
+├── main.py            # Arquivo principal de execução
+├── requirements.txt
+└── README.md
