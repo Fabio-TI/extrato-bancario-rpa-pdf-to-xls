@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { uploadFile } from '../api';
+import ProgressBar from './ProgressBar';
 
 const FileUpload = ({ onUploadComplete }) => {
   const [progress, setProgress] = useState(0);
