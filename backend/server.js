@@ -9,7 +9,7 @@ const port = 5000;
 
 // Configuração do Multer para salvar arquivos na pasta /input
 const storage = multer.diskStorage({
-  destination: './data',
+  destination: './data/input',
   filename: (req, file, cb) => {
     cb(null, file.originalname);
   },

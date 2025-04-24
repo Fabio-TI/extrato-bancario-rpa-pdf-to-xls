@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9812dc6d-8cc4-4802-bedf-a0b3beb000ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+    <list default="true" id="9812dc6d-8cc4-4802-bedf-a0b3beb000ac" name="Changes" comment="Alteração no projeto, com a criação de # Frontend e # Backend // Se necessário, restore a partir daqui.">
+      <change afterPath="$PROJECT_DIR$/backend/routes/fileRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/frontend/src/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/frontend/src/components/FileUpload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/frontend/src/components/ProgressBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/frontend/src/components/SummaryTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Fabio-TI"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Fabio-TI/extrato-bancario-rpa-pdf-to-xls.git",
+    "accountId": "b13c8b5f-688e-4012-991f-d5931de3e474"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -32,16 +55,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.processa_extrato.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.processa_extrato.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="C:\Users\fabio\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
+        <option name="reportGuid" value="9eaf123e-86a3-49a4-8124-95ba964bc15c" />
+        <option name="reportName" value="extrato-bancario-rpa-pdf-to-xls/qodana/2025-04-24" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\fabio\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="9eaf123e-86a3-49a4-8124-95ba964bc15c" reportId="extrato-bancario-rpa-pdf-to-xls/qodana/2025-04-24" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fabio\Desktop\Engenharia\Python\extrato-bancario-rpa-pdf-to-xls\frontend\frontend\src" />
+      <recent name="C:\Users\fabio\Desktop\Engenharia\Python\extrato-bancario-rpa-pdf-to-xls\frontend\frontend" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,6 +105,19 @@
       <option name="presentableId" value="Default" />
       <updated>1745271080461</updated>
     </task>
+    <task id="LOCAL-00001" summary="Alteração no projeto, com a criação de # Frontend e # Backend // Se necessário, restore a partir daqui.">
+      <option name="closed" value="true" />
+      <created>1745493525284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745493525284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alteração no projeto, com a criação de # Frontend e # Backend // Se necessário, restore a partir daqui." />
+    <option name="LAST_COMMIT_MESSAGE" value="Alteração no projeto, com a criação de # Frontend e # Backend // Se necessário, restore a partir daqui." />
   </component>
 </project>
