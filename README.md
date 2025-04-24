@@ -101,7 +101,3 @@ Contribuições são bem-vindas! Se você encontrar bugs ou quiser sugerir melho
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Se precisar de mais ajustes ou personalizações no `README.md`, estou à disposição! 😊
